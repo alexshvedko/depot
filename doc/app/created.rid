@@ -1,0 +1,7 @@
+Tue, 25 Feb 2014 10:11:23 +0200
+doc/README_FOR_APP	Mon, 24 Feb 2014 15:47:40 +0200
+app/controllers/application_controller.rb	Mon, 24 Feb 2014 15:47:40 +0200
+app/controllers/products_controller.rb	Mon, 24 Feb 2014 15:57:52 +0200
+app/helpers/application_helper.rb	Mon, 24 Feb 2014 15:47:40 +0200
+app/helpers/products_helper.rb	Mon, 24 Feb 2014 15:57:52 +0200
+app/models/product.rb	Mon, 24 Feb 2014 15:57:52 +0200

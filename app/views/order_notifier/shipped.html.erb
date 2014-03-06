@@ -1,0 +1,8 @@
+<h3>Order of Pragmatic Order send</h3>
+<p>
+  This message is to inform you that we have sent your recent order:
+</p>
+<table>
+  <tr><th colspan="2">К-во</th><th>Description</th></tr>
+  <%= render @order.line_items %>
+</table>
